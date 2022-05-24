@@ -1,6 +1,6 @@
 
 module.exports = {
-	'url': 'mongodb://localhost:27017',
+	'url': 'mongodb://mongo:FGxgVZbdpuUvI3YYojdG@containers-us-west-60.railway.app:7573',
 	'options': {
 		//'user':   'root',
 		//'pass':   '',
